@@ -35,6 +35,15 @@ img {
   margin: 0 auto;
 }
 
+.byline {
+  font-style: italic;
+}
+
+.caption {
+  font-style: italic;
+  color: gray;
+}
+
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
